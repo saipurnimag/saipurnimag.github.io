@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.68091598.chunk.css",
-    "main.js": "/static/js/main.41cfbe74.chunk.js",
-    "main.js.map": "/static/js/main.41cfbe74.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a0c160d6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a0c160d6.js.map",
-    "static/css/2.d788185a.chunk.css": "/static/css/2.d788185a.chunk.css",
-    "static/js/2.9cbe592a.chunk.js": "/static/js/2.9cbe592a.chunk.js",
-    "static/js/2.9cbe592a.chunk.js.map": "/static/js/2.9cbe592a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0e466dcf1561f64f075b9e0f81f41ecc.js": "/precache-manifest.0e466dcf1561f64f075b9e0f81f41ecc.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d788185a.chunk.css.map": "/static/css/2.d788185a.chunk.css.map",
-    "static/css/main.68091598.chunk.css.map": "/static/css/main.68091598.chunk.css.map",
-    "static/js/2.9cbe592a.chunk.js.LICENSE.txt": "/static/js/2.9cbe592a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.11093ee1.svg",
-    "static/media/notFound.jpg": "/static/media/notFound.cee6adf3.jpg"
+    "main.css": "https://saipurnimag.github.io/covid19/static/css/main.68091598.chunk.css",
+    "main.js": "https://saipurnimag.github.io/covid19/static/js/main.112bad63.chunk.js",
+    "main.js.map": "https://saipurnimag.github.io/covid19/static/js/main.112bad63.chunk.js.map",
+    "runtime-main.js": "https://saipurnimag.github.io/covid19/static/js/runtime-main.928abb19.js",
+    "runtime-main.js.map": "https://saipurnimag.github.io/covid19/static/js/runtime-main.928abb19.js.map",
+    "static/css/2.d788185a.chunk.css": "https://saipurnimag.github.io/covid19/static/css/2.d788185a.chunk.css",
+    "static/js/2.ba6a0471.chunk.js": "https://saipurnimag.github.io/covid19/static/js/2.ba6a0471.chunk.js",
+    "static/js/2.ba6a0471.chunk.js.map": "https://saipurnimag.github.io/covid19/static/js/2.ba6a0471.chunk.js.map",
+    "index.html": "https://saipurnimag.github.io/covid19/index.html",
+    "precache-manifest.53ec74526d24290b7c6474a426698b2c.js": "https://saipurnimag.github.io/covid19/precache-manifest.53ec74526d24290b7c6474a426698b2c.js",
+    "service-worker.js": "https://saipurnimag.github.io/covid19/service-worker.js",
+    "static/css/2.d788185a.chunk.css.map": "https://saipurnimag.github.io/covid19/static/css/2.d788185a.chunk.css.map",
+    "static/css/main.68091598.chunk.css.map": "https://saipurnimag.github.io/covid19/static/css/main.68091598.chunk.css.map",
+    "static/js/2.ba6a0471.chunk.js.LICENSE.txt": "https://saipurnimag.github.io/covid19/static/js/2.ba6a0471.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://saipurnimag.github.io/covid19/static/media/logo.11093ee1.svg",
+    "static/media/notFound.jpg": "https://saipurnimag.github.io/covid19/static/media/notFound.cee6adf3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0c160d6.js",
+    "static/js/runtime-main.928abb19.js",
     "static/css/2.d788185a.chunk.css",
-    "static/js/2.9cbe592a.chunk.js",
+    "static/js/2.ba6a0471.chunk.js",
     "static/css/main.68091598.chunk.css",
-    "static/js/main.41cfbe74.chunk.js"
+    "static/js/main.112bad63.chunk.js"
   ]
 }
