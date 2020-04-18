@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://saipurnimag.github.io/covid19/static/css/main.68091598.chunk.css",
-    "main.js": "https://saipurnimag.github.io/covid19/static/js/main.112bad63.chunk.js",
-    "main.js.map": "https://saipurnimag.github.io/covid19/static/js/main.112bad63.chunk.js.map",
+    "main.js": "https://saipurnimag.github.io/covid19/static/js/main.573653dd.chunk.js",
+    "main.js.map": "https://saipurnimag.github.io/covid19/static/js/main.573653dd.chunk.js.map",
     "runtime-main.js": "https://saipurnimag.github.io/covid19/static/js/runtime-main.928abb19.js",
     "runtime-main.js.map": "https://saipurnimag.github.io/covid19/static/js/runtime-main.928abb19.js.map",
     "static/css/2.d788185a.chunk.css": "https://saipurnimag.github.io/covid19/static/css/2.d788185a.chunk.css",
     "static/js/2.ba6a0471.chunk.js": "https://saipurnimag.github.io/covid19/static/js/2.ba6a0471.chunk.js",
     "static/js/2.ba6a0471.chunk.js.map": "https://saipurnimag.github.io/covid19/static/js/2.ba6a0471.chunk.js.map",
     "index.html": "https://saipurnimag.github.io/covid19/index.html",
-    "precache-manifest.53ec74526d24290b7c6474a426698b2c.js": "https://saipurnimag.github.io/covid19/precache-manifest.53ec74526d24290b7c6474a426698b2c.js",
+    "precache-manifest.60d99c2f6ec23a127dda74184d4d6973.js": "https://saipurnimag.github.io/covid19/precache-manifest.60d99c2f6ec23a127dda74184d4d6973.js",
     "service-worker.js": "https://saipurnimag.github.io/covid19/service-worker.js",
     "static/css/2.d788185a.chunk.css.map": "https://saipurnimag.github.io/covid19/static/css/2.d788185a.chunk.css.map",
     "static/css/main.68091598.chunk.css.map": "https://saipurnimag.github.io/covid19/static/css/main.68091598.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.d788185a.chunk.css",
     "static/js/2.ba6a0471.chunk.js",
     "static/css/main.68091598.chunk.css",
-    "static/js/main.112bad63.chunk.js"
+    "static/js/main.573653dd.chunk.js"
   ]
 }
