@@ -1,0 +1,19 @@
+.format {
+    color: red;
+    background: grey;
+}
+
+@media screen and (max-width:768px) {
+    .format {
+        color: red;
+        background: yellow;
+    }
+}
+
+@media screen and (max-width:575px) {
+    .format {
+        color: cyan;
+        background: red;
+    }
+    
+}
