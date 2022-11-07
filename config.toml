@@ -1,0 +1,18 @@
+baseURL = 'http://saipurnimag.github.io/'
+languageCode = 'en-us'
+title = 'Hey there! 👋✨'
+theme = 'chalk'
+enableEmoji = true
+
+[params.chalk]
+  # chalk theme parameters
+  about_enabled = false # Change to true if you wish to show an icon in the navigation that redirects to the about page
+  scrollappear_enabled = true
+  theme_toggle = true
+  blog_theme = 'dark' # Doesn't matter if theme_toggle = true
+  local_fonts = false
+
+[params.social]
+  github='saipurnimag'
+  instagram='_purnima.g_'
+  email='saipurnima@outlook.com'
