@@ -1,0 +1,81 @@
+.playwrite-us-modern-font {
+    font-family: "Playwrite US Modern", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* General styles */
+body {
+    background-color: #f8f9fa;
+    color: #212529;
+    line-height: 1.6;
+}
+
+/* Container styles */
+.container {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Title section */
+.title {
+    text-align: left;
+    padding: 4rem 4rem;
+    background: #f8f9fa;
+    /*border-radius: 10px;*/
+    /*box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);*/
+
+}
+
+/* Font styles */
+.playwrite-us-modern-font {
+    font-family: 'Playwrite US Modern', sans-serif;
+    font-weight: 400;
+    font-size: 3.5rem;
+    color: #2c3e50;
+    margin-bottom: 1rem;
+    animation: fadeIn 1s ease-in;
+}
+
+.source-serif-4-light {
+    font-family: "Source Serif 4", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.5rem;
+    animation: fadeIn 1s ease-in;
+}
+
+
+.league-spartan-light {
+    font-family: "League Spartan", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 1.5rem;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .title {
+        padding: 2rem 0;
+    }
+
+    .playwrite-us-modern-font {
+        font-size: 2.5rem;
+    }
+}
