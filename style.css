@@ -13,9 +13,6 @@
     grid-area: 1 / 1 / 2 / 6;
     font-size: xxx-large;
     text-align: center;
-
-    /*padding: ;*/
-    /*margin: ;*/
 }
 
 .header .p {
@@ -34,6 +31,67 @@
 .logo {
     max-height: 30px;
     max-width: 30px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.logo:hover {
+    transform: scale(1.5) ;
+}
+
+
+.logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    word-spacing: 1rem;
+}
+
+.images {
+    position: relative;
+    width: 100%; /* Adjust as needed */
+    max-height: 300px; /* Adjust as needed */
+}
+
+.purnima{
+    /*position: absolute;*/
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    opacity: 1;
+    animation: fadeIn 1s ease-in-out 0s;
+}
+/*.purnima  {*/
+/*    !*position: absolute; !* Stack all images on top of each other *!*!*/
+/*    top: 0;*/
+/*    left: 0;*/
+/*    width: 100%; !* Ensure all images fit the container *!*/
+/*    height: auto;*/
+/*    opacity: 0; !* Initially hide all images *!*/
+/*    !*animation-fill-mode: forwards;*!*/
+/*}*/
+
+/*.snap {*/
+/*    !*animation: fadeIn 1s ease-in-out 0s; !* Snap appears immediately *!*!*/
+/*}*/
+
+/*.purnima-img {*/
+/*    !*animation: fadeIn 1s ease-in-out 1s; !* Purnima appears after 1 second *!*!*/
+/*}*/
+
+/*.amazon {*/
+/*    !*animation: fadeIn 1s ease-in-out 2s; !* Amazon appears after 2 seconds *!*!*/
+/*}*/
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+
+    }
+    to {
+        opacity: 1;
+    }
 }
 
 
