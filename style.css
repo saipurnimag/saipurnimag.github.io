@@ -63,28 +63,6 @@
     animation: fadeIn 1s ease-in-out 0s;
 }
 
-/*.purnima  {*/
-/*    !*position: absolute; !* Stack all images on top of each other *!*!*/
-/*    top: 0;*/
-/*    left: 0;*/
-/*    width: 100%; !* Ensure all images fit the container *!*/
-/*    height: auto;*/
-/*    opacity: 0; !* Initially hide all images *!*/
-/*    !*animation-fill-mode: forwards;*!*/
-/*}*/
-
-/*.snap {*/
-/*    !*animation: fadeIn 1s ease-in-out 0s; !* Snap appears immediately *!*!*/
-/*}*/
-
-/*.purnima-img {*/
-/*    !*animation: fadeIn 1s ease-in-out 1s; !* Purnima appears after 1 second *!*!*/
-/*}*/
-
-/*.amazon {*/
-/*    !*animation: fadeIn 1s ease-in-out 2s; !* Amazon appears after 2 seconds *!*!*/
-/*}*/
-
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -95,6 +73,11 @@
     }
 }
 
+footer {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
 
 /*
 -------  FONTS  -------
