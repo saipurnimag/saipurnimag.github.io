@@ -21,10 +21,11 @@
 
 .content-container {
 
+    margin-top: min(5%,10px) ;
     margin-left: min(20%, 310px);
     margin-right: min(20%, 310px);
     /*max-width: fit-content;*/
-    text-align: center;
+    text-align: justify;
 
 }
 
@@ -41,8 +42,7 @@
 
 .logos {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
     gap: 5px;
     word-spacing: 1rem;
 }
