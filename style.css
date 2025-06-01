@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;1,300&family=VT323&display=swap');
 
+
 .parent {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -15,10 +16,6 @@
     text-align: center;
 }
 
-.header .p {
-    margin: 0;
-}
-
 .content-container {
 
     margin-top: min(5%, 10px);
@@ -26,7 +23,6 @@
     margin-right: min(20%, 310px);
     /*max-width: fit-content;*/
     text-align: justify;
-
 }
 
 .logo {
@@ -100,4 +96,63 @@ footer {
     font-family: "VT323", serif;
     font-weight: 400;
     font-style: normal;
+}
+
+#logos {
+    margin-bottom: 0;
+    margin-top: 0%;
+    font-size: 75%;
+    letter-spacing: max(0.4em, 0.4em);
+}
+
+#iam {
+    margin-bottom: 0; margin-top: 0%; font-size: 75%; letter-spacing: max(0.4em, 0.4em);
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .header {
+        font-size: x-large;
+        margin-top: 10%;
+    }
+
+    #iam {
+        margin-top: min(25px, 5%);
+        margin-bottom: min(25px, 2%);
+    }
+
+    #logos {
+        margin-top: min(225px, 5%);
+        margin-bottom: min(25px, 2%);
+    }
+    #logos a {
+        margin-right: 10px; /* Adjust the value as needed */
+        /* Or use margin-left: 10px; */
+    }
+
+    /* Optional: Remove margin from the last link */
+    #logos a:last-child {
+        margin-right: 0;
+    }
+
+    .logo:hover {
+        transform: scale(1.5);
+    }
+
+    .content-container {
+        text-align: justify;
+    }
+    .content-container {
+
+        margin-top: max(2%, 10px);
+        margin-left: max(10%, 10px);
+        margin-right: max(10%, 10px);
+        /*max-width: fit-content;*/
+        text-align: justify;
+    }
+}
+
+.input {
+    width: min(30%, 100px);
 }
